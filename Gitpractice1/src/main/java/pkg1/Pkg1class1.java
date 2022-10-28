@@ -6,6 +6,7 @@ public class Pkg1class1 {
 		// TODO Auto-generated method stub
  String  s = "Hello";
  System.out.println(s);
+		String str="vitthal";
 	}
 
 }
