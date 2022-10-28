@@ -8,7 +8,6 @@ public class Pkg1class1 {
  System.out.println(s);
 		String str="vitthal";
 		System.out.println(str);
-		String ss= "markad";
 	}
 
 }
