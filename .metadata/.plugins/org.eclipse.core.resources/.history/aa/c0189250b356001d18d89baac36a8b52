@@ -7,7 +7,6 @@ public class Pkg1class1 {
  String  s = "Hello";
  System.out.println(s);
 		String str="vitthal";
-		System.out.println(str);
 	}
 
 }
