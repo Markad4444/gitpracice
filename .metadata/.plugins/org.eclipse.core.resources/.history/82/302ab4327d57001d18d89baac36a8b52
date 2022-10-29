@@ -10,7 +10,6 @@ public class Pkg1class1 {
 		System.out.println(str);
 		String ss= "markad";
 		String sss="Automtion";
-		String s1="Testing";
 	}
 
 }
