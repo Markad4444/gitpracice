@@ -11,7 +11,6 @@ public class Pkg1class1 {
 		String ss= "markad";
 		String sss="Automtion";
 		String s1="Testing";
-		System.out.println(s1);
 	}
 
 }
