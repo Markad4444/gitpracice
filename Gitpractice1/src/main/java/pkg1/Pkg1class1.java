@@ -13,6 +13,8 @@ public class Pkg1class1 {
 		String s1="Testing";
 		System.out.println(s1);
 		String r="rekha";
+		String k="sushil";
+		String kk="maroti";
 	}
 
 }
