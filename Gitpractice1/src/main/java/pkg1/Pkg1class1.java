@@ -12,6 +12,7 @@ public class Pkg1class1 {
 		String sss="Automtion";
 		String s1="Testing";
 		System.out.println(s1);
+		String r="rekha";
 	}
 
 }
