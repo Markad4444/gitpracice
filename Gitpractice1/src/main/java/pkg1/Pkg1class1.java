@@ -15,6 +15,8 @@ public class Pkg1class1 {
 		String r="rekha";
 		String k="sushil";
 		String kk="maroti";
+		String mm="merrage2";
+		String mmm="marrage1";
 	}
 
 }
